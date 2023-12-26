@@ -45,7 +45,7 @@ Before getting started, ensure you have the following installed:
 
 Clone the repository:
 
-git clone https://github.com/your-username/electron-setup.git
+git clone https://github.com/ahmad5373/Electron-Setup
 cd electron-setup
 
 ## Install dependencies:
